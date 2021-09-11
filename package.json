@@ -9,7 +9,7 @@
   "description": "The base template for Create React App by bernardobfg.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bernardobfg/bernardo-template",
+    "url": "https://github.com/bernardobfg/bernardo-template"
   },
   "license": "MIT",
   "engines": {
